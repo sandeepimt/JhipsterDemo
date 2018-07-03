@@ -1,0 +1,2 @@
+# JhipsterDemo
+JHipster Demo Application
